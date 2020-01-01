@@ -1,0 +1,5 @@
+name: flocon2020 
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas

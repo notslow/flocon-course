@@ -4,3 +4,5 @@ dependencies:
   - matplotlib
   - pandas
   - scikit-learn
+  - networkx
+  - community

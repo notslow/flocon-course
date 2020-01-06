@@ -6,3 +6,4 @@ dependencies:
   - scikit-learn
   - networkx
   - community
+  - scipy

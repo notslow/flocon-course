@@ -1,4 +1,4 @@
-name: flocon2020 
+name: flocon2022
 dependencies:
   - numpy
   - matplotlib

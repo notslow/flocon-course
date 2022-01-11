@@ -24,13 +24,13 @@ You will need to either:
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
 - Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
 
-Once the files are downloaded, you will need to install the required packages. Choose one of the following methods:
+Once the files are downloaded, you will need to install the required packages. Choose *ONE* of the following methods:
 - Install the packages using `conda` or `pip` on the CLI e.g., `conda install --file requirements.txt`
 - Evaluate `dependencies.ipynb` via Jupyter Notebooks. 
 
 ## Run using Docker
 
-Docker is a popular method for running software in "containers". First, you will need to grab the files from GitHub using one of the following methods:
+Docker is a popular method for running software in "containers". First, you will need to grab the files from GitHub using *ONE* of the following methods:
 
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
 - Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
@@ -38,7 +38,7 @@ Docker is a popular method for running software in "containers". First, you will
 Then navigate on the command-line to the directory with the files then from the terminal prompt type: `docker run -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/minimal-notebook`
 Then copy and paste the link that appears in the terminal window into your browser
 
-You will need to install the proper Python dependencies for the course. This can be achieved via one of the following methods:
+You will need to install the proper Python dependencies for the course. This can be achieved via *ONE* of the following methods:
 - Evaluate `dependencies.ipynb` via Jupyter Notebooks. 
 - Open a terminal from the "New" drop down menu in the top right of your screen, then type `cd work; pip install -r requirements.txt` at the prompt
 
@@ -49,7 +49,7 @@ VSCode is a common tool for software engineers. You will need to install a plugi
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
 - Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
 
-Finally, install the dependencies using one of the following methods:
+Finally, install the dependencies using *ONE* of the following methods:
 
 - Evaluate `dependencies.ipynb` via Jupyter Notebooks. 
 - Open a new terminal window then type `pip install -r requirements.txt` at the prompt

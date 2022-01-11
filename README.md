@@ -22,7 +22,7 @@ Anaconda is a popular Python distribution. It includes the ability to run Jupyte
 
 You will need to either:
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
-- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
+- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2022](https://github.com/notslow/flocon-course/releases/tag/v2022)
 
 Once the files are downloaded, you will need to install the required packages. Choose *ONE* of the following methods:
 - Install the packages using `conda` or `pip` on the CLI e.g., `conda install --file requirements.txt`
@@ -33,7 +33,7 @@ Once the files are downloaded, you will need to install the required packages. C
 Docker is a popular method for running software in "containers". First, you will need to grab the files from GitHub using *ONE* of the following methods:
 
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
-- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
+- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2022](https://github.com/notslow/flocon-course/releases/tag/v2022)
 
 Then navigate on the command-line to the directory with the files then from the terminal prompt type: `docker run -p 8888:8888 -v $(pwd):/home/jovyan/work jupyter/minimal-notebook`
 Then copy and paste the link that appears in the terminal window into your browser
@@ -47,7 +47,7 @@ You will need to install the proper Python dependencies for the course. This can
 VSCode is a common tool for software engineers. You will need to install a plugin for VSCode titled "Jupyter Notebook" from the VSCode Marketplace.  You will also  need to ensure the `ipykernel` python module is installed and available in your environment. Then download the notebook files for the course:
 
 - Clone the file from github: `git clone https://github.com/notslow/flocon-course.git` 
-- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2021](https://github.com/notslow/flocon-course/releases/tag/v2021)
+- Download and unpack the source files directly: [https://github.com/notslow/flocon-course/releases/tag/v2022](https://github.com/notslow/flocon-course/releases/tag/v2022)
 
 Finally, install the dependencies using *ONE* of the following methods:
 
